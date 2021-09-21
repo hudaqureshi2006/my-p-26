@@ -1,4 +1,4 @@
-Waffle Recipe
+# Waffle Recipe
 
 Ingredients
 . 2 1/4 Cups      all-purpose flour                     270g
